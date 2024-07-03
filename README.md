@@ -1,2 +1,2 @@
 # image-uploader
- a django webapplication tahat you can upload your images
+ a django webapplication that you can upload your images
